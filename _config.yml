@@ -1,0 +1,10 @@
+title: overdijk.me
+url: http://www.overdijk.me
+
+gems:
+  - jekyll-sitemap
+
+sass:
+  style: :compressed
+
+timezone: Europe/Amsterdam
